@@ -1,0 +1,8 @@
+streamlit==0.74.1
+pandas==0.25.3
+numpy==1.19.5
+plotly==4.14.3
+emoji==0.6.0
+textblob==0.15.3
+wordcloud==1.8.1
+matplotlib==3.3.3
